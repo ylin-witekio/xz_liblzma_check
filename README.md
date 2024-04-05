@@ -10,7 +10,7 @@ curl https://raw.githubusercontent.com/ylin-witekio/xz_liblzma_check/main/xz_lib
 
 #### `wget` one line download and check of `/usr/bin/`
 ```
-wget -O - https://raw.githubusercontent.com/ylin-witekio/xz_liblzma_check/docs/xz_liblzma_check.sh | bash
+wget -O - https://raw.githubusercontent.com/ylin-witekio/xz_liblzma_check/main/xz_liblzma_check.sh | bash
 ```
 
 ## Advanced Usage
